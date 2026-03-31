@@ -2,8 +2,8 @@
 
  Student Details
 **Name:** Shreya Tiwari  
-**Registration Number:** YOUR_REG_NO  
-**Branch:** B.Tech (Your Branch)  
+**Registration Number:** 25MIP10077 
+**Branch:** INTEGRATED M.TECH CSE(COMPUTATIONAL AND DATA SCIENCE) 
 **Year:** First Year  
 
 **Course Code:** CSE0001  
