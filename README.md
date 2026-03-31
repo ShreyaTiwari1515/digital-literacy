@@ -1,6 +1,6 @@
 # digital literacy project
 
-## 👩‍🎓 Student Details
+ Student Details
 **Name:** Shreya Tiwari  
 **Registration Number:** YOUR_REG_NO  
 **Branch:** B.Tech (Your Branch)  
@@ -9,16 +9,16 @@
 **Course Code:** CSE0001  
 **Course Title:** Digital Literacy  
 
----
 
-## 📌 Project Overview
+
+ Project Overview
 This repository contains my Digital Literacy Project completed as part of the CSE0001 course. The project focuses on developing essential digital skills such as creating professional online profiles, understanding internet safety, practising professional communication, and learning cybercrime awareness.
 
 The project is divided into five tasks, each representing a module of digital literacy learning.
 
----
 
-## 📂 Project Structure
+
+ Project Structure
 
 - **task-1-presentation/**  
   Digital Literacy Awareness Infographic created using Canva.
@@ -38,9 +38,7 @@ The project is divided into five tasks, each representing a module of digital li
 - **report/**  
   Final project report documenting all tasks and reflections.
 
----
-
-## 🧠 Learning Outcomes
+Learning Outcomes
 Through this project, I learned:
 - Importance of digital literacy in academics and career growth
 - Creating and managing professional online profiles
@@ -48,9 +46,8 @@ Through this project, I learned:
 - Safe internet practices and cybercrime awareness
 - Using collaboration and coding platforms effectively
 
----
 
-## 🔗 Useful Links
+Useful Links
 - GitHub: https://github.com/
 - LinkedIn: https://linkedin.com/
 - HackerRank: https://hackerrank.com/
